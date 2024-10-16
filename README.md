@@ -110,5 +110,6 @@ print("Ciphertext 3:", ciphertext3)
 print("Decrypted Text 3:", decrypted_text3)![Screenshot (432)]
 ```
 
-![Screenshot (432)](https://github.com/user-attachments/assets/d472e5d0-c40f-45c3-ac28-1a16d91553ff)
+![Screenshot (433)](https://github.com/user-attachments/assets/2a6f6105-fdee-4b3f-96f0-9bebca817b9d)
+
 
