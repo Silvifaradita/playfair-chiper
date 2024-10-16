@@ -1,3 +1,4 @@
+![Screenshot (432)](https://github.com/user-attachments/assets/d472e5d0-c40f-45c3-ac28-1a16d91553ff)
 # playfair-chiper
 
 # Nama : Silvi fara Dita
@@ -108,6 +109,7 @@ print("Decrypted Text 2:", decrypted_text2)
 print("\nPlaintext 3:", plaintext3)
 print("Ciphertext 3:", ciphertext3)
 print("Decrypted Text 3:", decrypted_text3)![Screenshot (432)]
+```
 
 (https://github.com/user-attachments/assets/8d816ea8-a962-4260-9692-105ab8ca6bdd)
 
