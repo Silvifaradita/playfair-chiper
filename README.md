@@ -8,6 +8,7 @@
 # JUNK FOOD AND HEALTH PROBLEMS
 # Dengan kunci “TEKNIK INFORMATIKA"
 
+```
 def prepare_key(key):
   key = key.upper().replace("J", "I")
   key_matrix = []
@@ -106,5 +107,7 @@ print("Decrypted Text 2:", decrypted_text2)
 
 print("\nPlaintext 3:", plaintext3)
 print("Ciphertext 3:", ciphertext3)
-print("Decrypted Text 3:", decrypted_text3)![Screenshot (432)](https://github.com/user-attachments/assets/8d816ea8-a962-4260-9692-105ab8ca6bdd)
+print("Decrypted Text 3:", decrypted_text3)![Screenshot (432)]
+
+(https://github.com/user-attachments/assets/8d816ea8-a962-4260-9692-105ab8ca6bdd)
 
